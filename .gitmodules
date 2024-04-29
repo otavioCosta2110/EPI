@@ -1,0 +1,6 @@
+[submodule "EPI-frontend"]
+	path = EPI-frontend
+	url = https://github.com/otavioCosta2110/EPI-frontend
+[submodule "EPI-backend"]
+	path = EPI-backend
+	url = https://github.com/otavioCosta2110/EPI-backend
